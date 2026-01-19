@@ -126,8 +126,11 @@ This prevents closing the feeder while the cat is still present.
 
 - Directional mounting toward feeding area
 
+## Instalation Diagram
 
+<img width="527" height="380" alt="image" src="https://github.com/user-attachments/assets/d6f6474e-92ea-4dca-ba8a-bd02b9d392fc" />
 
+## Demo Video
 
 
 
